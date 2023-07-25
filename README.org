@@ -1,0 +1,10 @@
+* binary-structures
+
+A library for reading, writing, and representing structures from binary storage
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shinmera/binary-structures.git   |
+| commit  | {"messa  |
+| systems | binary-structures |
+|---------+-------------------------------------------|
+
