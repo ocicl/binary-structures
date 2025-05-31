@@ -4,6 +4,6 @@ A library for reading, writing, and representing structures from binary storage
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/binary-structures.git |
-| commit  | ba6d6d4                                               |
+| commit  | 17d6133                                               |
 | systems | binary-structures                                     |
 |---------+-------------------------------------------------------|
